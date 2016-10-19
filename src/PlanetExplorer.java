@@ -5,6 +5,7 @@
 
 public class PlanetExplorer {
 	
+
 	private int position_x = 0;
 	private int position_y = 0;
 	
