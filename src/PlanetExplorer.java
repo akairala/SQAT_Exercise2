@@ -5,8 +5,7 @@
 
 public class PlanetExplorer {
 	
-	private int position_x = 1;
-	private int position_y = 2;
+	
 	
 	public PlanetExplorer(int x, int y, String obstacles){
 	/*	x and y represent the size of the grid.
@@ -16,6 +15,8 @@ public class PlanetExplorer {
 		PlanetExplorer explorer = new PlanetExplorer(100,100,"(5,5)(7,8)")  
 		 
 	 */
+		int position_x = 1;
+		int position_y = 2;
 	}
 	
 	public int getPosition(){

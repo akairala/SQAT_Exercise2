@@ -63,3 +63,8 @@ CompilationAction 1476879911074 TestPlanetExplorer.java
 UnitTestCaseAction 1476879911444 TestPlanetExplorer.java FAIL
 UnitTestSessionAction 1476879911445 TestPlanetExplorer.java FAIL
 EditAction 1476879935510 PlanetExplorer.java 1403 3 2 0
+UnitTestCaseAction 1476879946514 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1476879946516 TestPlanetExplorer.java FAIL
+RefactoringAction 1476879989005 PlanetExplorer.java REMOVE position_x FIELD
+RefactoringAction 1476879989007 PlanetExplorer.java REMOVE position_y FIELD
+EditAction 1476880024062 PlanetExplorer.java 1391 3 4 0
