@@ -19,7 +19,12 @@ public class TestPlanetExplorer {
 	
 	@Test
 	public void test_getDirection() {
-		fail("Not yet implemented");
+		
+		// Get initial position of explorer
+		String direction = explorer.getDirection();
+		
+		// Assert
+		assertEquals("Invalid initial direction", "north", direction);
 	}
 	
 	@Test

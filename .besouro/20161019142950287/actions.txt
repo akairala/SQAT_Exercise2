@@ -88,3 +88,6 @@ RefactoringAction 1476881251929 PlanetExplorer.java ADD String get FIELD
 RefactoringAction 1476881256443 PlanetExplorer.java RENAME get=>String getDirectio FIELD
 RefactoringAction 1476881257955 PlanetExplorer.java RENAME getDirectio=>String getDirection() METHOD
 EditAction 1476881293482 PlanetExplorer.java 1532 4 4 0
+UnitTestCaseAction 1476881295370 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1476881295371 TestPlanetExplorer.java FAIL
+EditAction 1476881465690 TestPlanetExplorer.java 686 3 5 2
