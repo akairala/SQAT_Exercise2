@@ -1,0 +1,32 @@
+FileOpenedAction 1476876590501 PlanetExplorer.java 1270 2 1 0
+FileOpenedAction 1476876716446 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1476876740148 TestPlanetExplorer.java ADD void test FIELD
+RefactoringAction 1476876743169 TestPlanetExplorer.java RENAME test=>void test_ FIELD
+RefactoringAction 1476876744191 TestPlanetExplorer.java RENAME test_=>void test_() METHOD
+RefactoringAction 1476877468141 TestPlanetExplorer.java RENAME test_()=>void test_valueOfX() METHOD
+RefactoringAction 1476878015812 TestPlanetExplorer.java RENAME test_valueOfX()=>void test_() METHOD
+RefactoringAction 1476878021349 TestPlanetExplorer.java RENAME test_()=>void test_getInitilaPosition() METHOD
+RefactoringAction 1476878094469 TestPlanetExplorer.java ADD void test_ FIELD
+RefactoringAction 1476878095991 TestPlanetExplorer.java RENAME test_=>void test_get FIELD
+RefactoringAction 1476878105515 TestPlanetExplorer.java RENAME test_get=>void test_getDirection FIELD
+RefactoringAction 1476878106535 TestPlanetExplorer.java RENAME test_getDirection=>void test_getDirection() METHOD
+RefactoringAction 1476878159165 TestPlanetExplorer.java RENAME test_getInitilaPosition()=>void test_getInitPosition() METHOD
+RefactoringAction 1476878160186 TestPlanetExplorer.java RENAME test_getInitPosition()=>void test_getIniPosition() METHOD
+RefactoringAction 1476878161704 TestPlanetExplorer.java RENAME test_getIniPosition()=>void test_getInitialPosition() METHOD
+RefactoringAction 1476878187756 TestPlanetExplorer.java ADD void test_ FIELD
+RefactoringAction 1476878369775 TestPlanetExplorer.java RENAME test_=>void test_moveFor FIELD
+RefactoringAction 1476878372291 TestPlanetExplorer.java RENAME test_moveFor=>void test_moveForward FIELD
+RefactoringAction 1476878373809 TestPlanetExplorer.java RENAME test_moveForward=>void test_moveForward() METHOD
+RefactoringAction 1476878893107 PlanetExplorer.java ADD String getPo FIELD
+RefactoringAction 1476878895622 PlanetExplorer.java RENAME getPo=>String getPosition() METHOD
+RefactoringAction 1476878904150 PlanetExplorer.java RENAME getPosition()=>String getPosition(int) METHOD
+RefactoringAction 1476878909681 PlanetExplorer.java RENAME getPosition(int)=>String getPosition(int, int) METHOD
+RefactoringAction 1476878962256 PlanetExplorer.java RENAME getPosition(int, int)=>String getPosition(int) METHOD
+RefactoringAction 1476878975285 PlanetExplorer.java RENAME getPosition(int)=>String getPosition(int, int) METHOD
+RefactoringAction 1476879026858 PlanetExplorer.java RENAME getPosition(int, int)=>String getPosition() METHOD
+RefactoringAction 1476879039872 PlanetExplorer.java RENAME getPosition()=>String getPosition(String) METHOD
+FileOpenedAction 1476879098724 PlanetExplorerException.java 61 0 0 0
+RefactoringAction 1476879281036 TestPlanetExplorer.java REMOVE test_executeCommand() METHOD
+RefactoringAction 1476879288563 TestPlanetExplorer.java ADD PlanetExplorer explorer FIELD
+RefactoringAction 1476879414465 PlanetExplorer.java RENAME getPosition(String)=>String getPosition() METHOD
+EditAction 1476879445882 TestPlanetExplorer.java 553 3 4 1
