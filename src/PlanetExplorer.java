@@ -5,7 +5,10 @@
 
 public class PlanetExplorer {
 	
+	private int position_x = 0;
+	private int position_y = 0;
 	
+	private String direction = "north";
 	
 	public PlanetExplorer(int x, int y, String obstacles){
 	/*	x and y represent the size of the grid.
@@ -15,12 +18,14 @@ public class PlanetExplorer {
 		PlanetExplorer explorer = new PlanetExplorer(100,100,"(5,5)(7,8)")  
 		 
 	 */
-		int position_x = 1;
-		int position_y = 2;
 	}
 	
 	public int getPosition(){
 		return position_x + position_y;
+	}
+	
+	public String getDirection(){
+		return direction;
 	}
 	
 	public String executeCommand(String command){
@@ -34,6 +39,10 @@ public class PlanetExplorer {
 		 * Where pos_x and pos_y are the final coordinates, facing is the current direction the explorer is pointing to (N,S,W,E).
 		 * The return string should also contain a list of coordinates of the encountered obstacles. No white spaces.
 		 */
+		
+		if (command == "f"){
+			
+		}
 		
 		return null;
 	}
