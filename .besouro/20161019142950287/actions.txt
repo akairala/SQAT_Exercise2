@@ -98,3 +98,12 @@ UnitTestCaseAction 1476881481378 TestPlanetExplorer.java FAIL
 UnitTestSessionAction 1476881481378 TestPlanetExplorer.java FAIL
 RefactoringAction 1476881496387 TestPlanetExplorer.java RENAME test_getDirection()=>void test_getInitialDirection() METHOD
 EditAction 1476881501403 TestPlanetExplorer.java 693 3 5 2
+RefactoringAction 1476881539112 PlanetExplorer.java ADD String postion FIELD
+RefactoringAction 1476881545636 PlanetExplorer.java RENAME postion=>String pos FIELD
+RefactoringAction 1476881548149 PlanetExplorer.java RENAME pos=>String posi FIELD
+RefactoringAction 1476881550661 PlanetExplorer.java RENAME posi=>String position() METHOD
+RefactoringAction 1476881561185 PlanetExplorer.java RENAME position()=>String position(int) METHOD
+RefactoringAction 1476881599734 PlanetExplorer.java RENAME position(int)=>String position(int, int) METHOD
+RefactoringAction 1476881688334 PlanetExplorer.java RENAME position(int, int)=>String position() METHOD
+RefactoringAction 1476881704864 PlanetExplorer.java REMOVE position() METHOD
+EditAction 1476881710030 PlanetExplorer.java 1532 4 4 0
