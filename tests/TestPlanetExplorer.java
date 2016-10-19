@@ -29,6 +29,11 @@ public class TestPlanetExplorer {
 	
 	@Test
 	public void test_moveForward() {
-		fail("Not yet implemented");
+		
+		// Arrange
+		int command_value = explorer.executeCommand();
+		
+		// Assert
+		assertEquals("Invalid direction after command", "N", direction);
 	}
 }
