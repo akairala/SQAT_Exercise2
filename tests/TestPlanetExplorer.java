@@ -18,13 +18,13 @@ public class TestPlanetExplorer {
 	}
 	
 	@Test
-	public void test_getDirection() {
+	public void test_getInitialDirection() {
 		
 		// Get initial position of explorer
 		String direction = explorer.getDirection();
 		
 		// Assert
-		assertEquals("Invalid initial direction", "south", direction);
+		assertEquals("Invalid initial direction", "north", direction);
 	}
 	
 	@Test
