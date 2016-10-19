@@ -11,7 +11,7 @@ public class TestPlanetExplorer {
 	public void test_getInitialPosition() {
 			
 		// Get value
-		String position = explorer.getPosition();
+		int position = explorer.getPosition();
 		
 		// Assert
 		assertEquals("Invalid initial position", 0, 0, position);

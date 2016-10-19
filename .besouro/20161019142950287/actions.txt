@@ -33,3 +33,33 @@ EditAction 1476879445882 TestPlanetExplorer.java 553 3 4 1
 CompilationAction 1476879447839 TestPlanetExplorer.java
 CompilationAction 1476879447841 TestPlanetExplorer.java
 EditAction 1476879450228 PlanetExplorer.java 1337 3 3 0
+CompilationAction 1476879452122 PlanetExplorer.java
+CompilationAction 1476879452123 TestPlanetExplorer.java
+CompilationAction 1476879452124 TestPlanetExplorer.java
+UnitTestCaseAction 1476879477844 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1476879477846 TestPlanetExplorer.java FAIL
+CompilationAction 1476879577630 TestPlanetExplorer.java
+CompilationAction 1476879577696 TestPlanetExplorer.java
+CompilationAction 1476879577697 TestPlanetExplorer.java
+RefactoringAction 1476879659091 PlanetExplorer.java ADD int postion FIELD
+RefactoringAction 1476879661110 PlanetExplorer.java RENAME postion=>int postion_x FIELD
+RefactoringAction 1476879670166 PlanetExplorer.java RENAME postion_x=>int po FIELD
+RefactoringAction 1476879673182 PlanetExplorer.java RENAME po=>int pos FIELD
+RefactoringAction 1476879675697 PlanetExplorer.java RENAME pos=>int position_x FIELD
+RefactoringAction 1476879679209 PlanetExplorer.java ADD int posti FIELD
+RefactoringAction 1476879682221 PlanetExplorer.java RENAME posti=>int position_ FIELD
+RefactoringAction 1476879686242 PlanetExplorer.java RENAME position_=>int position_y FIELD
+CompilationAction 1476879703592 PlanetExplorer.java
+CompilationAction 1476879703793 PlanetExplorer.java
+CompilationAction 1476879703794 TestPlanetExplorer.java
+CompilationAction 1476879703795 TestPlanetExplorer.java
+CompilationAction 1476879871665 PlanetExplorer.java
+CompilationAction 1476879871887 TestPlanetExplorer.java
+CompilationAction 1476879871888 TestPlanetExplorer.java
+UnitTestCaseAction 1476879883421 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1476879883423 TestPlanetExplorer.java FAIL
+CompilationAction 1476879911073 TestPlanetExplorer.java
+CompilationAction 1476879911074 TestPlanetExplorer.java
+UnitTestCaseAction 1476879911444 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1476879911445 TestPlanetExplorer.java FAIL
+EditAction 1476879935510 PlanetExplorer.java 1403 3 2 0
