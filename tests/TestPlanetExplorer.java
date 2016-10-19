@@ -24,7 +24,7 @@ public class TestPlanetExplorer {
 		String direction = explorer.getDirection();
 		
 		// Assert
-		assertEquals("Invalid initial direction", "north", direction);
+		assertEquals("Invalid initial direction", "south", direction);
 	}
 	
 	@Test
