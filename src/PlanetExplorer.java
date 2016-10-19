@@ -42,7 +42,7 @@ public class PlanetExplorer {
 		 */
 		
 		if (command == "f"){
-			
+			System.out.println("LOL");
 		}
 		
 		return null;
