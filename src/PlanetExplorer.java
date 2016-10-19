@@ -41,8 +41,10 @@ public class PlanetExplorer {
 		 * The return string should also contain a list of coordinates of the encountered obstacles. No white spaces.
 		 */
 		
-		if (command == "f"){
-			System.out.println("LOL");
+		if (command == "f" & direction == "N"){
+			direction = "N";
+			
+			return direction;
 		}
 		
 		return null;
