@@ -30,3 +30,6 @@ RefactoringAction 1476879281036 TestPlanetExplorer.java REMOVE test_executeComma
 RefactoringAction 1476879288563 TestPlanetExplorer.java ADD PlanetExplorer explorer FIELD
 RefactoringAction 1476879414465 PlanetExplorer.java RENAME getPosition(String)=>String getPosition() METHOD
 EditAction 1476879445882 TestPlanetExplorer.java 553 3 4 1
+CompilationAction 1476879447839 TestPlanetExplorer.java
+CompilationAction 1476879447841 TestPlanetExplorer.java
+EditAction 1476879450228 PlanetExplorer.java 1337 3 3 0

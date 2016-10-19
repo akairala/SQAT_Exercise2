@@ -1,7 +1,7 @@
 
 // Before submitting write your ID and finish time here. Your ID is written on project description sheets.
-// ID:
-// Finish time:
+// ID: 147
+// Finish time: 
 
 public class PlanetExplorer {
 	public PlanetExplorer(int x, int y, String obstacles){
@@ -12,6 +12,11 @@ public class PlanetExplorer {
 		PlanetExplorer explorer = new PlanetExplorer(100,100,"(5,5)(7,8)")  
 		 
 	 */
+	}
+	
+	private String getPosition(){
+		int x = 0;
+		int y = 0;
 	}
 	
 	public String executeCommand(String command){
