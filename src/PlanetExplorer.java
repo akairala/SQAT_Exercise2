@@ -9,7 +9,7 @@ public class PlanetExplorer {
 	private int position_x = 0;
 	private int position_y = 0;
 	
-	private String direction = "north";
+	private String direction = "N";
 	
 	public PlanetExplorer(int x, int y, String obstacles){
 	/*	x and y represent the size of the grid.
